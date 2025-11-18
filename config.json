@@ -15,13 +15,13 @@
             "Server": "time.apple.com",
             "ServerPort": 0
         },
-        "OriginalPath": "/etc/V2bX/sing_origin.json"
+        "OriginalPath": "sing_origin.json"
     }],
     "Nodes": [{
             "Core": "sing",
             "ApiHost": "https://alvgw.xyz",
             "ApiKey": "n8ae9hw0zqCRfA6ApJ64bgvrT1ict",
-            "NodeID": 11,
+            "NodeID": 76,
             "NodeType": "shadowsocks",
             "Timeout": 30,
             "ListenIP": "0.0.0.0",
@@ -45,7 +45,7 @@
             "Core": "sing",
             "ApiHost": "https://alvgw.xyz",
             "ApiKey": "n8ae9hw0zqCRfA6ApJ64bgvrT1ict",
-            "NodeID": 21,
+            "NodeID": 78,
             "NodeType": "vless",
             "Timeout": 30,
             "ListenIP": "0.0.0.0",
@@ -69,7 +69,7 @@
             "Core": "sing",
             "ApiHost": "https://alvgw.xyz",
             "ApiKey": "n8ae9hw0zqCRfA6ApJ64bgvrT1ict",
-            "NodeID": 22,
+            "NodeID": 77,
             "NodeType": "hysteria2",
             "Timeout": 30,
             "ListenIP": "0.0.0.0",
@@ -93,7 +93,7 @@
             "Core": "sing",
             "ApiHost": "https://alvgw.xyz",
             "ApiKey": "n8ae9hw0zqCRfA6ApJ64bgvrT1ict",
-            "NodeID": 23,
+            "NodeID": 75,
             "NodeType": "anytls",
             "Timeout": 30,
             "ListenIP": "0.0.0.0",
